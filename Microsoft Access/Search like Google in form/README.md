@@ -36,8 +36,8 @@ Me.Q_ProductSearch_subform.Requery
 End Sub
 ```
 
-!([Textbox txtDummy](https://github.com/Idemar/Programming/blob/master/Microsoft%20Access/Search%20like%20Google%20in%20form/images/Skjema_hoved.png))
+![Textbox txtDummy](https://github.com/Idemar/Programming/blob/master/Microsoft%20Access/Search%20like%20Google%20in%20form/images/Skjema_hoved.png)
 
-!([Before filter in the search box](https://github.com/Idemar/Programming/blob/master/Microsoft%20Access/Search%20like%20Google%20in%20form/images/Hovedskjema.png))
+![Before filter in the search box](https://github.com/Idemar/Programming/blob/master/Microsoft%20Access/Search%20like%20Google%20in%20form/images/Hovedskjema.png)
 
-!([After filter in the search box](https://github.com/Idemar/Programming/blob/master/Microsoft%20Access/Search%20like%20Google%20in%20form/images/Hovedskjema2.png))
+![After filter in the search box](https://github.com/Idemar/Programming/blob/master/Microsoft%20Access/Search%20like%20Google%20in%20form/images/Hovedskjema2.png)
